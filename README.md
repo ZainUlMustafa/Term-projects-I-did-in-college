@@ -1,4 +1,4 @@
-# Term-projects-I-did-in-college
+## Term projects I did in college
 
 ### Various languages
 Each language is separated into branches for ease.
