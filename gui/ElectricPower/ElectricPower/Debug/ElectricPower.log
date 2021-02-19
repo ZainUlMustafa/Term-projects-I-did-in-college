@@ -1,0 +1,32 @@
+﻿Build started 8/27/2017 4:20:07 AM.
+     1>Project "D:\Programming\C++ and C\GUI\ElectricPower\ElectricPower\ElectricPower.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ElectricPower.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\Visual Studio 2010\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ElectricPower.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ElectricPower.cpp /clr:nostdlib 
+         ElectricPower.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\C++ and C\GUI\ElectricPower\Debug\ElectricPower.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\ElectricPower.Form1.resources /MANIFEST /ManifestFile:"Debug\ElectricPower.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Programming\C++ and C\GUI\ElectricPower\Debug\ElectricPower.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ElectricPower.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ElectricPower.vcxproj -> D:\Programming\C++ and C\GUI\ElectricPower\Debug\ElectricPower.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Programming\C++ and C\GUI\ElectricPower\Debug\ElectricPower.exe;#1" /manifest Debug\ElectricPower.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\ElectricPower.unsuccessfulbuild".
+         Touching "Debug\ElectricPower.lastbuildstate".
+     1>Done Building Project "D:\Programming\C++ and C\GUI\ElectricPower\ElectricPower\ElectricPower.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.64

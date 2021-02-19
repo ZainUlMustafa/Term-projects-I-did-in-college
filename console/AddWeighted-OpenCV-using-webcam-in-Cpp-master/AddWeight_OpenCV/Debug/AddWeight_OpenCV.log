@@ -1,0 +1,20 @@
+﻿Build started 8/15/2017 4:06:39 AM.
+     1>Project "D:\Programming\C++ and C\Console\AddWeighted-OpenCV-using-webcam-in-Cpp-master\AddWeight_OpenCV\AddWeight_OpenCV.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AddWeight_OpenCV.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\AddWeight_OpenCV.unsuccessfulbuild".
+         Touching "Debug\AddWeight_OpenCV.lastbuildstate".
+     1>Done Building Project "D:\Programming\C++ and C\Console\AddWeighted-OpenCV-using-webcam-in-Cpp-master\AddWeight_OpenCV\AddWeight_OpenCV.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23

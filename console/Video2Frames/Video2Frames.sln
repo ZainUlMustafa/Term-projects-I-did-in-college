@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Video2Frames", "Video2Frames\Video2Frames.vcxproj", "{750E5007-9D5B-4B51-A075-661429DF247B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750E5007-9D5B-4B51-A075-661429DF247B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{750E5007-9D5B-4B51-A075-661429DF247B}.Debug|Win32.Build.0 = Debug|Win32
+		{750E5007-9D5B-4B51-A075-661429DF247B}.Release|Win32.ActiveCfg = Release|Win32
+		{750E5007-9D5B-4B51-A075-661429DF247B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

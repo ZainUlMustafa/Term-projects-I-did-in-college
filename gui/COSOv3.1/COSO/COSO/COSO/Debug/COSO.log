@@ -1,0 +1,35 @@
+﻿Build started 11/26/2016 11:43:31 AM.
+     1>Project "C:\Users\Zain\Desktop\Speed Programming\COSO\COSO\COSO.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\COSO.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\COSO.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt COSO.cpp /clr:nostdlib 
+         COSO.cpp
+     1>c:\users\zain\desktop\speed programming\coso\coso\Form1.h(328): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\zain\desktop\speed programming\coso\coso\Form1.h(338): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\zain\desktop\speed programming\coso\coso\Form1.h(357): warning C4018: '<' : signed/unsigned mismatch
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zain\Desktop\Speed Programming\COSO\Debug\COSO.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\COSO.Form1.resources /MANIFEST /ManifestFile:"Debug\COSO.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Zain\Desktop\Speed Programming\COSO\Debug\COSO.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\COSO.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         COSO.vcxproj -> C:\Users\Zain\Desktop\Speed Programming\COSO\Debug\COSO.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Zain\Desktop\Speed Programming\COSO\Debug\COSO.exe;#1" /manifest Debug\COSO.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\COSO.unsuccessfulbuild".
+         Touching "Debug\COSO.lastbuildstate".
+     1>Done Building Project "C:\Users\Zain\Desktop\Speed Programming\COSO\COSO\COSO.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
