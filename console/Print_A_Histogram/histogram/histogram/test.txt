@@ -1,6 +1,0 @@
-In order to build a computer system that performs a specific task or solves a given
-problem, the task or problem has to be clearly defined, showing what is going to be
-computed and how it is going to be computed. This chapter introduces the tools and
-techniques that are used to design a software solution that together with the
-associated computer hardware will form a computer system
-eee
