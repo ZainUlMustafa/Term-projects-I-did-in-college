@@ -8,4 +8,4 @@ Each language is separated into branches for ease.
 * Assembly
 * JS
 
-**Note:** This is a repo of all the college projects I found while cleaning my harddrive. Please note that I have no intention of updating the existing codes.
+**Note:** This is a repo of all the college projects I found while cleaning my hdd. Please note that I have no intention of updating the existing codes.
